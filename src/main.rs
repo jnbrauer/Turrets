@@ -1,6 +1,6 @@
 use ggez::{event, conf, ContextBuilder, GameResult};
 use ggez::conf::FullscreenType;
-use Turrets::MainState;
+use turrets::MainState;
 
 fn main() -> GameResult {
     // Initialize the game context and window

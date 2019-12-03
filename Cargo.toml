@@ -1,5 +1,5 @@
 [package]
-name = "Turrets"
+name = "turrets"
 version = "0.1.0"
 authors = ["jnbrauer"]
 edition = "2018"
